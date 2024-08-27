@@ -1,4 +1,4 @@
-![Image](image/fe.png)
+![Image](bio.png)
 
 <h1 align="center">Hi 👋, I'm Fadli Al Akbar</h1>
 <h3 align="center">A Passionate Flutter Developer From Indonesia</h3>

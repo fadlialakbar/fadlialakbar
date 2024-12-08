@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Software Developmet**
 
-- 👨‍💻 All of my projects are available at [here](https://www.notion.so/fadliakbar/0cebe2bb043e42fab8cef5951da54521)
+- 👨‍💻 All of my projects are available at [here](https://contra.com/fadlialakbar)
 
 - 📝 I regularly write articles on [here at medium](https://medium.com/@fadlialakbar)
 

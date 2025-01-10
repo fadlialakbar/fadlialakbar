@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fadli Al Akbar</h1>
-<h3 align="center">A Passionate Fullstack Engineer From Indonesia</h3>
+<h3 align="center">A Passionate Software Engineer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadlialakbar&label=Profile%20views&color=0e75b6&style=flat" alt="fadlialakbar" /> </p>
 
